@@ -1,0 +1,17 @@
+lesson_2_reflection_prompts
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+initializing a git repository creates a local repository within that directory and add all existing files within it with .git hidden folder in it contains history of all commits 
+we will run the command if we have to start from scratch.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+according to what i read earlier staging area is a buffer between local working directory and git repository
+staging area is where we can commit and review our files before actually pushing it to server
+staging area offers us a space to track files that we wanna push in repository
+
+
+
