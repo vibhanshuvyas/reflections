@@ -14,4 +14,12 @@ staging area is where we can commit and review our files before actually pushing
 staging area offers us a space to track files that we wanna push in repository
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+we can use git diff command which will will compare files in working directory with the staging area
+git diff --staged will be used to compare the staging area with the latest commit of the git repository
+from this command we will know that what are the changes in remote repo wrt  staging area before commit 
+
+
+
 
