@@ -21,5 +21,15 @@ git diff --staged will be used to compare the staging area with the latest commi
 from this command we will know that what are the changes in remote repo wrt  staging area before commit 
 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches helps in creating new modules by taking existing ones
+viz once we create a project then after we want to revise versions of that projects 
+and that version contains 2 updates. one for front end developer and another for backend developer
+so we'll create two branches for two updates and at last we'll merge them to master and revise our version
+
+
+
+
 
 
