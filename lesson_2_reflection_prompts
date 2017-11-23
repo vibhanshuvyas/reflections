@@ -29,6 +29,16 @@ and that version contains 2 updates. one for front end developer and another for
 so we'll create two branches for two updates and at last we'll merge them to master and revise our version
 
 
+How do the diagrams help you visualize the branch structure?
+
+diagrams helps us to track the latest branch or branches in which work is going on 
+the node in diagrams represent commits made by each branch and whenever a branch is merged two nodes are combined to one
+and whenever any user created a new branch from the existing one so in this way diagrams help us to realize branch structure 
+without having to look at particular branch
+
+
+
+
 
 
 
