@@ -39,7 +39,12 @@ without having to look at particular branch
 
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+the result contain the codes of  both the branches when we're using git merge <branch_name> it will merge the branch specified in the command with the current branch . the code of the merged branch will be synced in the current branch 
+the diagrams help us to visualize the branch structure the graph in which node repsent a commit of a branch whenever a new branch is created from existing one
+or merged into the existing one then it shows the two paths coming out of a node which help us to determine which branch is parent of the current branch and it 
+also help us to compare the code of parent branch 
 
 
 
