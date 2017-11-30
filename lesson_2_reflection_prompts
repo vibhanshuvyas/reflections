@@ -48,3 +48,10 @@ also help us to compare the code of parent branch
 
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging  replace the code of a branch without specifying and gives auto commit message
+while 
+manual merging some code expert must have to go through that part whenever merge conflict arise
+manual merging is somewhat suitable because it provides us with the option of choosing a block of code from a particular branch
+and we can also specify our own commit message 
