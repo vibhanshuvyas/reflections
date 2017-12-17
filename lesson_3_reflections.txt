@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 whenever we're working on a project collaboratively then it is necessary to sync all the code in the remote repository so whenever a new 
 team member wants to get latest code he would be able to get one from the remote repository
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+The reason of any pull is to add some extra feature in it. and sometimes that feature required editors, compilers for coding that are not provided on git remote repository.
+for testing purpose.
